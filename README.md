@@ -1,5 +1,5 @@
 # RBAC-app
-How to Run Make sure Python is installed have the code in there.
+How to Run Make sure Python is installed have the code in Vscode or other thing like that.
 If using Vscode which I used click the run button in the conner to run it.
 It Is a simple app it has
 hardcoded usernames and roles.
