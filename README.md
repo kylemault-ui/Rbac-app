@@ -1,6 +1,6 @@
 # RBAC-app
 It Is a simple app it has
-Hardcoded usernames and roles.
+hardcoded usernames and roles.
 A simple login check.
 Two protected checks
 Access checks based on the logged-in user's role
